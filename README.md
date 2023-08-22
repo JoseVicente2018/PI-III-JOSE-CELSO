@@ -20,7 +20,7 @@ Desenvolver um software no Unity (a ser definido) usando o óculos de realidade 
 Documentar todos os procedimentos (conexão, configuração, calibração, comunicação, codificação, bibliotecas necessárias, carregamento, cuidados necessários, limpeza, armazenamento, etc).
 
 # Metodologia
-> descreva a metodologia de desenvolvimento destacando quais são as etapas
+ descreva a metodologia de desenvolvimento destacando quais são as etapas
 
 # Cronograma
 > crie um projeto no GitHub discriminando as ações e o período em que as mesmas serão realizadas
