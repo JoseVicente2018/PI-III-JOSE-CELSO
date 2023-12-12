@@ -62,7 +62,28 @@ Conexão via USB-C, a diferença para o anterior é a seguinte, para poder inter
 Para ter acesso ao arquivo deverá realizar a criação de um apk gerado no próprio ambiente unity em (file> build), depois transferir esse arquivo para o aplicativo sidequest dessa forma gerando o arquivo de acesso no oculus.
 
 ## Escolha de um procedimento de teste na área da elétrica para desenvolvê-lo de forma realidade virtual pelo software Unity;
-![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/5b405904-973f-438b-b7e2-c9d510592330)
+
+Antes de desenvolver o software no unity, buscou-se na área da elétrica possíveis procedimentos, testes de funcionamentos que seriam viáveis para desenvolvimento do software. E com isso, através da sugestão do orientador, decidiu-se ir em busca de testes em motores elétricos trifásicos. No livro “Motores elétricos e acionamentos’’ do PETRUZELLA, Frank D. No capítulo 5 e na 8º parte ele trás diversos tipos de testes (ex: testes de isolamento dos enrolamentos) e possíveis problemas em motores elétricos, alguns exemplos: resistência de isolamento baixa, fusível queimado ou disjuntor desarmado, defeitos nos enrolamentos do motor.
+	O procedimento decidido a se fazer foi o teste de medição de resistência de isolamento do motor através de um megometro. Para isso buscou-se a respectiva norma que disponibiliza o que deve ser levado em consideração para a realização do teste, a norma designada é a norma ABNT NBR 17094-3:2018  (Máquinas elétricas girantes Parte 3: Motores de indução trifásicos ― Métodos de ensaio). Para o teste a norma possibilita dois tipos de medições, de cada fase, ou do curto circuito das fases com o sistema de aterramento do motor. Para um bom entendimento do processo de teste, o Professor Tiago Drummond juntamente a sua turma de conversão eletromecânica de energia 1, proporcionou na fábrica o teste prático de um motor trifásico que foi doado para a instituição de forma a averiguar se o mesmo estava em condições de uso. Como pode ser visto nas seguintes figuras 1 e a figura 2:
+ Figura 1: realização do teste prático.
+ ![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/273b406c-d67a-4670-bb07-4004e9c7d48a)
+Fonte: o autor.
+ Figura 2: realização do teste prático.
+![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/4a4476b6-ca83-4c38-a2f3-a82d161f2488)
+Fonte: o autor.
+
+A norma recomenda no minimo uma resistência confiável de operação de 5 Mohms. Como mostra a tabela.
+![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/352c1225-0b54-45a6-8ac1-b8a7f77bca82)
+Fonte: ABNT NBR 17094-3:2018.
+
+E para calibração do megometro, segundo a norma:
+![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/d8c4404e-3655-486f-97c9-648435f677a0)
+Fonte: ABNT NBR 17094-3:2018.
+
+Para a análise do resultado encontrado no megometro (aplicado uma tensão de 500V, sendo o motor de 500V), de acordo com a norma citada anteriormente a resistência de isolamento deve ser maior que 5Mohms. Figura 3 mostra o resultado da teste.
+![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/2379a9cb-a84a-4b2e-aa1e-56af05db92b9)
+Fonte: o autor
+Como pode-se observar o megometro mediu 0,2Mohms, dessa forma, conluimos que o motor doado ao IFSC não está em condições de uso e que precisa de manutenções. De forma semelhante, o intuíto dessa visita na prática é de reproduzir esse procedimento via software unity.
 
 
 
