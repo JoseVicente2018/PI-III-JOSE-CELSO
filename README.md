@@ -13,7 +13,8 @@ O objetivo deste trabalho é desenvolver um software( uma intereção da área d
 
 
 # Objetivos específicos
-> Estudar o funcionamento do óculos de realidade virtual; Documentar todos os procedimentos (conexão, configuração, calibração, carregamento, cuidados necessários, limpeza, armazenamento).
+
+Estudar o funcionamento do óculos de realidade virtual; Documentar todos os procedimentos (conexão, configuração, calibração, carregamento, cuidados necessários, limpeza, armazenamento).
 
 Conectar o óculos de realidade virtual ao computador;
 
