@@ -49,9 +49,13 @@ O Oculus Meta Quest 2 proporciona uma experiência intuitiva desde o momento da 
 ## Realizar a integração do óculos de realidade virtual com o ambiente de desenvolvimento Unity;
 
 Para realizar a conexão do oculus ao Unity, o notebook ou pc devem possuir a porta de acesso para cabo USB- C. Dessa forma, o próprio modo de criação de ambiente VR do Unity reconhecerá o dispositivo de entrada, que é o Oculus. Existem 3 modos de acessar o arquivo gerado pelo Unity no Oculus:
+
 1º modo (cabo link)
+
 Para acessar o Unity e ter sua interação basta ter o cabolink onde no próprio Unity você seleciona o dispositivo de entrada, após isso, no oculus, você realiza a primeira opção de espelhamento, dessa forma, todas as alterações feitas no Unity, e após a sua compilação, ao dar play. No próprio oculus você poderá interagir com o ambiente desenvolvido no software Unity.
+
 2º modo (cabo USB-C)
+
 Conexão via USB-C, a diferença para o anterior é a seguinte, para poder interagir no oculus deve-se acessar a opção (file>build and run) dessa forma, gerando dentro do oculus um arquivo (app) apk para acesso. Ou seja, toda vez que fizer alteração terá que fazer esse procedimento, diferentemente do primeiro modo, o qual bastava apertar play.
 3ª modo (SIDE QUEST)
 Para ter acesso ao arquivo deverá realizar a criação de um apk gerado no próprio ambiente unity em (file> build), depois transferir esse arquivo para o aplicativo sidequest dessa forma gerando o arquivo de acesso no oculus.
