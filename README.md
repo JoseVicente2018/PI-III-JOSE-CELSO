@@ -98,8 +98,11 @@ Fonte: o autor
 Como pode-se observar o megometro mediu 0,2Mohms, dessa forma, conluimos que o motor doado ao IFSC não está em condições de uso e que precisa de manutenções. De forma semelhante, o intuíto dessa visita na prática é de reproduzir esse procedimento via software unity integrando com o oculus metaquest 2.
 
 ## Desenvolver um software no Unity usando o óculos de realidade virtual com a função hand tracking;
+
 	Antes de realizar o desenvolvimento do projeto no Unity primeiramente foi criado um procedimento de como deve ser feito o teste no ambiente de realidade virtual e quais materiais que devem nesse ambiente de realidade virtual. Segue o procedimento para o desenvolvimento no unity:
+ 
  1º passo:
+ 
 Procedimento de segurança:
 - Colocar o EPI (luva);
 - Desligar o motor no quadro elétrico (on/off) (pode ser 1 led demostrando o status do motor).
@@ -108,7 +111,9 @@ Se o usuário não colocar a luva e for direto ao quadro, ao tentar abrir o quad
 Se o usuário for direto mexer no motor, aparecerá uma mensagem dizendo que ele morreu, e automaticamente voltará pro respawn. 
 Se o usuário for direto no megometro e tentar colocar no motor, acontecerá o mesmo que o caso acima.
 Se o usuário pegar a luva e tentar e depois tentar mexer no motor ou no megometro (aparecerá uma mensagem, “para sua maior segurança, desligue o disjuntor do motor quadro elétrico)
+
 2º Passo
+
 Disponibilizar para o usuário um quadro ou um informativo da tensão do motor para adequar o megometro à tensão correta; nesse informativo deverá conter a tensão do motor e o quadro segundo a norma de qual tensão ele deverá utilizar no megometro para realizar o teste do motor. 
 - Selecionar a tensão no megometro;
 - Conectar os jacarés no motor. - Escolher forma de medição:
@@ -117,6 +122,7 @@ Disponibilizar para o usuário um quadro ou um informativo da tensão do motor p
 - megometro poderá ter 2 valores diferentes (%) nos dois métodos de ligação do megometro. Um valor muito baixo 1Mohm e o outro valor alto 6Mohms. Nos dois tipos de ligação deverá dar o mesmo valor.
 
 3ª passo retirada do equipamento
+
 Quando o usuário decidir desligar o megometro. Aparecerá, de acordo com os valores medidos, um menu perguntando se o motor está ok ou não.
 Se o parâmetro estiver ok. E a pessoa responder ok. Está correto. (Justificar na resposta o do porquê que está certo)
 Caso a pessoa colocar ok, e não tiver, aparecerá uma mensagem justificando o porquê que não.
