@@ -99,7 +99,7 @@ Como pode-se observar o megometro mediu 0,2Mohms, dessa forma, conluimos que o m
 
 ## Desenvolver um software no Unity usando o óculos de realidade virtual com a função hand tracking;
 
-	Antes de realizar o desenvolvimento do projeto no Unity primeiramente foi criado um procedimento de como deve ser feito o teste no ambiente de realidade virtual e quais materiais que devem nesse ambiente de realidade virtual. Segue o procedimento para o desenvolvimento no unity:
+Antes de realizar o desenvolvimento do projeto no Unity primeiramente foi criado um procedimento de como deve ser feito o teste no ambiente de realidade virtual e quais materiais que devem nesse ambiente de realidade virtual. Segue o procedimento para o desenvolvimento no unity:
  
  1º passo:
  
