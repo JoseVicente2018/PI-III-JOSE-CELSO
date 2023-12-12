@@ -9,7 +9,7 @@ Aluno(s): José Celso Vicente do Nascimento
 Orientador: Prof. Sérgio Augusto Bitencourt Petrovcic
 
 # Objetivo geral
-O objetivo deste trabalho é desenvolver um software( uma intereção da área da elétrica) usando óculos de realidade virtual no ambiente Unity, na linguagem C#. O óculos de realidade virtual será fornecido pelo IFSC.
+O objetivo deste trabalho é desenvolver um software ( uma intereção educacional da área da elétrica) usando óculos de realidade virtual no ambiente Unity, na linguagem C#. O óculos de realidade virtual será fornecido pelo IFSC.
 
 
 # Objetivos específicos
@@ -20,6 +20,7 @@ Conectar o óculos de realidade virtual ao computador;
 
 Realizar a integração do óculos de realidade virtual com o ambiente de desenvolvimento Unity;
 
+Escolha de um procedimento de teste na área da elétrica para desenvolvê-lo de forma realidade virtual pelo software Unity;
 
 Desenvolver um software no Unity usando o óculos de realidade virtual com a função hand tracking; (comunicação, codificação, bibliotecas necessária)
 
@@ -60,22 +61,27 @@ Conexão via USB-C, a diferença para o anterior é a seguinte, para poder inter
 3ª modo (SIDE QUEST)
 Para ter acesso ao arquivo deverá realizar a criação de um apk gerado no próprio ambiente unity em (file> build), depois transferir esse arquivo para o aplicativo sidequest dessa forma gerando o arquivo de acesso no oculus.
 
+## Escolha de um procedimento de teste na área da elétrica para desenvolvê-lo de forma realidade virtual pelo software Unity;
+![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/5b405904-973f-438b-b7e2-c9d510592330)
+
+
+
+## Desenvolver um software no Unity usando o óculos de realidade virtual com a função hand tracking;
+
+
 # Cronograma
 De acordo com os objetivos apresentados, é necessário criar um cronograma com os períodos de estudo e implementação do projeto. Tendo a consciencia da possibilidade de algumas datas serem alteradas de acordo com o desenvolvimento do projeto.
 
 Clique [aqui](https://github.com/users/JoseVicente2018/projects/1) para acessar o cronograma.
 
 # Lista de materiais
-> crie uma lista dos materiais que serão necessários para a execução do projeto
-> 
-> utilize preço médio do mercado mesmo que não seja necessário comprar
 
 | Item | Descrição | Unidade | Valor Unitário | Quantidade | Total |
 | ---- | ------------- | --- | ------------- | ------------- | ------------- |
 |  01  | oculus headset quest 2 advanced all-in-one de realidade virtual gmaing vr headset 128 gb branco| 1 | R$ 2.563,00 | 1 | R$ 2.563,00 |
 
 # Unidades curriculares envolvidas
-> liste as unidades curriculares envolvidas com o tema escolhido
+
 - Progamação I e II;
 - Computação cientifica;
 - Conversão eletromecanica de energia 1.
