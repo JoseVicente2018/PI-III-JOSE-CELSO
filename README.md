@@ -19,7 +19,6 @@ Conectar o óculos de realidade virtual ao computador;
 
 Realizar a integração do óculos de realidade virtual com o ambiente de desenvolvimento Unity;
 
-Identificar e testar softwares já desenvolvidos baseados no Unity que fazem uso do óculos de realidade virtual;
 
 Desenvolver um software no Unity usando o óculos de realidade virtual com a função hand tracking; (comunicação, codificação, bibliotecas necessária)
 
