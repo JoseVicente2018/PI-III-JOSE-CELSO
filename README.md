@@ -61,9 +61,9 @@ Conexão via USB-C, a diferença para o anterior é a seguinte, para poder inter
 Para ter acesso ao arquivo deverá realizar a criação de um apk gerado no próprio ambiente unity em (file> build), depois transferir esse arquivo para o aplicativo sidequest dessa forma gerando o arquivo de acesso no oculus.
 
 # Cronograma
-De acordo com os objetivos apresentados, faz-se necessário criar um cronograma com os períodos de estudo e implementação do projeto. Tendo a consciencia da possibilidade de algumas datas serem alteradas de acordo com o desenvolvimento do projeto
+De acordo com os objetivos apresentados, é necessário criar um cronograma com os períodos de estudo e implementação do projeto. Tendo a consciencia da possibilidade de algumas datas serem alteradas de acordo com o desenvolvimento do projeto.
 
-Clique [aqui]() para acessar o cronograma.
+Clique [aqui](https://github.com/users/JoseVicente2018/projects/1) para acessar o cronograma.
 
 # Lista de materiais
 > crie uma lista dos materiais que serão necessários para a execução do projeto
