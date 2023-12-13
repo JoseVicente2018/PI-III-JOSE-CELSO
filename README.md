@@ -128,7 +128,10 @@ Se o parâmetro estiver ok. E a pessoa responder ok. Está correto. (Justificar 
 Caso a pessoa colocar ok, e não tiver, aparecerá uma mensagem justificando o porquê que não.
 Fim.
 
-O software disponibilisa uma comunicação interativa com seu usuário de forma a apresentar o abiente virtual disponibilizando uma infinidade de funções, no qual, para um iniciante o uso pode parece dificil. Nesse caso, como teve-se o primeiro contato o software unity demandou 
+O software tem uma comunicação interativa com seu usuário de forma virtual disponibilizando uma infinidade de funções, no qual, para um iniciante o uso pode parece dificil. Nesse caso, como teve-se o primeiro contato o software unity demandou um certo esforço para entender a demanda basica. 
+
+
+
 
 
  
