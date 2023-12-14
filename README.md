@@ -128,11 +128,21 @@ Se o parâmetro estiver ok. E a pessoa responder ok. Está correto. (Justificar 
 Caso a pessoa colocar ok, e não tiver, aparecerá uma mensagem justificando o porquê que não.
 Fim.
 
-O software tem uma comunicação interativa com seu usuário de forma virtual disponibilizando uma infinidade de funções, no qual, para um iniciante o uso pode parece dificil. Nesse caso, como teve-se o primeiro contato o software unity demandou um certo esforço para entender a demanda basica. 
+O software tem uma comunicação interativa com seu usuário de forma virtual disponibilizando uma infinidade de funções figura 4, no qual, para um iniciante o uso pode parece dificil. Nesse caso, como teve-se o primeiro contato o software unity demandou um certo esforço para entender a demanda basica. 
 
-![image](
+Figura 4: interface unity.
 
+![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/bf507e36-5c9b-4681-813a-a9240eba36ac)
 
+O Unity disponibiliza opções de desenvolvimento para criação de projetos, podendo eles serem 2D, 3D, VR, etc. Como nosso caso é para realidade virtual, foi criado no espaço de projeto para VR. 
+
+Para criar o ambiente utilizou-se a ferramente disponível chamada Assets, "Assets" refere-se a todos os recursos que são utilizados em um projeto, como modelos 3D, texturas, scripts, áudio, animações, entre outros. Sendo esses recursos fundamentais para a criação de jogos e aplicações interativas. Utilizando a ferramenta, montou-se o ambiente para teste de verificação de resistência de isolamento de um motor trifasico 
+
+Figura 5 : ambiente para teste de resistência de isolamento do motor
+
+![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/47549c3a-5c0c-4634-be1d-6db018e3a1ca)
+
+Após montar o ambiente em 3D chegou a hora de realizar de forma interativa com a linguagem de programação C#. Com a programação pode-se realizar uma infinidade de interações com o ambiente de realidade virtual, como exemplo, segurar objetos, cortar, vestir, apertar, gerar numeros, etc. A programação é feita a partir do software visualstudio, o qual no unity é agregado ao objeto. Então, para continuidade do projeto seguiu-se em codigo c# essas intereções.
 
  
 
