@@ -142,7 +142,7 @@ Figura 5 : ambiente para teste de resistência de isolamento do motor
 
 ![image](https://github.com/JoseVicente2018/PI-III-JOSE-CELSO/assets/141693494/47549c3a-5c0c-4634-be1d-6db018e3a1ca)
 
-Após montar o ambiente em 3D chegou a hora de realizar de forma interativa com a linguagem de programação C#. Com a programação pode-se realizar uma infinidade de interações com o ambiente de realidade virtual, como exemplo, segurar objetos, cortar, vestir, apertar, gerar numeros, etc. A programação é feita a partir do software visualstudio, o qual no unity é agregado ao objeto. Então, para continuidade do projeto seguiu-se em codigo c# essas intereções.
+Após montar o ambiente em 3D chegou a hora de realizar de forma interativa com a linguagem de programação C#. Com a programação pode-se realizar uma infinidade de interações com o ambiente de realidade virtual, como exemplo, segurar objetos, cortar, vestir, apertar, gerar numeros, etc. A programação é feita a partir do software visualstudio, o qual no unity é agregado ao objeto. Então, para continuidade do projeto seguiu-se em codigo c# essas intereções. Essas interações e códigos encontra-se no repositório e o programa disponível em APK.
 
  
 
